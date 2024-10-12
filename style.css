@@ -1,0 +1,9 @@
+strong {
+  width: 150px;
+  height: 100px;
+  background-color: blue;
+  padding: 10px;
+
+  /* Xoá bỏ thuộc tính inline mặc định */
+  display: inline-block;
+}
